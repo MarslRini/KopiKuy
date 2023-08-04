@@ -1,49 +1,49 @@
 {
     "arabica": [
         {
-            "foto": "images/produk kopi/Kopi_Arabica_Sidikalang.jpg",
+            "foto": "https://images.pexels.com/photos/14050904/pexels-photo-14050904.jpeg?auto=compress&cs=tinysrgb&w=600&lazy=load",
             "nama": "Kopi Arabica Sidikalang",
             "size": "1.000 Gram",
             "harga": "148.000",
             "link": "https://www.google.com/search?q=cappuccino+arabica&tbm=shop"
         },
         {
-            "foto": "images/produk kopi/Kopi_Arabica_Aceh_Gayo_Super.jpg",
+            "foto": "https://images.pexels.com/photos/14050892/pexels-photo-14050892.jpeg?auto=compress&cs=tinysrgb&w=600&lazy=load",
             "nama": "Kopi Arabica Aceh Gayo Super",
             "size": "500 Gram",
             "harga": "58.000",
             "link": "https://www.google.com/search?q=pahit+arabica&tbm=shop"
         },
         {
-            "foto": "images/produk kopi/Kopi_Arabica_Gayo_Honey_Process.jpg",
+            "foto": "https://images.pexels.com/photos/14050909/pexels-photo-14050909.jpeg?auto=compress&cs=tinysrgb&w=600&lazy=load",
             "nama": "Kopi Arabica Gayo Honey Process",
             "size": "1.000 Gram",
             "harga": "200.000",
             "link": "https://www.google.com/search?q=latte+arabica&tbm=shop"
         },
         {
-            "foto": "images/produk kopi/Kopi_Arabica_Gayo_Premium_Specialty.jpg",
+            "foto": "https://images.pexels.com/photos/13741282/pexels-photo-13741282.jpeg?auto=compress&cs=tinysrgb&w=600&lazy=load",
             "nama": "Kopi Arabica Gayo Premium Specialty",
             "size": "200 Gram",
             "harga": "49.000",
             "link": "https://www.google.com/search?q=cappuccino+arabica&tbm=shop"
         },
         {
-            "foto": "images/produk kopi/Kopi_Luwak_Liar_Arabica_Gayo.jpg",
+            "foto": "image.png",
             "nama": "Kopi Luwak Liar Arabica Gayo",
             "size": "1.000 Gram",
             "harga": "280.000",
             "link": "https://www.google.com/search?q=pahit+arabica&tbm=shop"
         },
         {
-            "foto": "images/produk kopi/Kopi_Arabica_Gayo_Peaberry.jpg",
+            "foto": "images/produk/Kopi_Arabica_Gayo_Peaberry.jpg",
             "nama": "Kopi Arabica Gayo Peaberry",
             "size": "500 Gram",
             "harga": "105.000",
             "link": "https://www.google.com/search?q=latte+arabica&tbm=shop"
         },
         {
-            "foto": "images/produk kopi/Kopi_Arabica_Gayo_Wine.jpg",
+            "foto": "images/produk/Kopi_Arabica_Gayo_Wine.jpg",
             "nama": "Kopi Arabica Gayo Wine",
             "size": "500 Gram",
             "harga": "118.000",
@@ -52,14 +52,14 @@
     ],
     "robusta": [
         {
-            "foto": "images/produk kopi/Kopi_Aceh_Robusta_Gayo_Natural_Premium.jpeg",
+            "foto": "https://images.pexels.com/photos/14050895/pexels-photo-14050895.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
             "nama": "Kopi Aceh Robusta Gayo Natural Premium",
             "size": "250 Gram",
             "harga": "25.000",
             "link": "https://www.google.com/search?q=kopi+susu+robusta&tbm=shop"
         },
         {
-            "foto": "images/produk kopi/Kopi_Robusta_Natural_Sidikalang_Premium.jpeg",
+            "foto": "https://images.pexels.com/photos/14050899/pexels-photo-14050899.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
             "nama": "Kopi Robusta Natural Sidikalang Premium",
             "size": "500 Gram",
             "harga": "40.000",
